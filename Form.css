@@ -1,0 +1,25 @@
+form{
+    margin: 20px;
+    border:1px solid ;
+    width: 400px;
+    padding: 30px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    margin: 20px;
+}
+form h4{
+    text-align: center;
+}
+.r1{
+    margin-left: 10px;
+}
+#sub{
+    
+    color: white;
+}
